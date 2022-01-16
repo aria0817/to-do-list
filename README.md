@@ -1,17 +1,19 @@
-# to-do-list
+# to-do-list 重要在输出，有输出才能有收获。每天看文章是没有太大的用处的，只有使用过才会明白和理解。
 
 
-* mini-router
-* mini-vue
-* vue2 diff算法复习和响应式原理实现
-* ssr
-* 将已有的vue2/3项目加上vite
-* vite原理解析
-* vue3 响应式原理解析
-* linux 基本指令学习
-* nginx 和 docker 学习
-* ...
+* 前端知识系统梳理，笔记整理。（需要做到自己的认知，并且有条理的输入文章，这是非常重要的，能够练习自己的表达能力。）
+* mini vue2 全家桶实现，并且做一个小小的demo。
+* webpack、vite【snowpack】、rollup 学习热更新原理和各自的亮点，总结并输出文章。
+* SSR
+* vue3 实现了哪些更新，vue3响应式原理。
+* vue vs react 
+* Node vs Deno
+* 太困了待续
 
-// 重新制定计划，这些计划不是很合理。暂时linux nginx docker的优先级没有这么高
+ 注：每一条都是很大的点，需要再次细化到小一点。
 
- 
+ # news
+ * 酷壳 https://coolshell.cn/
+ * 前端学习网站 收费 https://frontendmasters.com/  
+ * infoq https://www.infoq.cn/
+ * 掘金、思否
